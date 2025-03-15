@@ -6,7 +6,7 @@
 </head>
 <body>
 @section('sidebar')
-    This is the master sidebar.2
+    This is the master sidebar.1
 @show
 
 <div class="container">
